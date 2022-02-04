@@ -1,11 +1,17 @@
 ﻿namespace Core
 {
-    public class Class1
+    public class GeneradorDePDFs
+    {       
+
+    }
+
+    public class FirmarPDFs
     {
-        //subir cambio jjhinojo
 
-        //otro cambio
+    }
 
+    public class EnviarCorreos
+    {
 
     }
 }

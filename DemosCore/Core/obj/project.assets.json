@@ -8,32 +8,31 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jfgomez\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\mllav\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jfgomez\\source\\repos\\CursoNetCore\\DemosCore\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\mllav\\Source\\Repos\\CursoNetCoreOK\\DemosCore\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\jfgomez\\source\\repos\\CursoNetCore\\DemosCore\\Core\\Core.csproj",
-      "packagesPath": "C:\\Users\\jfgomez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jfgomez\\source\\repos\\CursoNetCore\\DemosCore\\Core\\obj\\",
+      "projectPath": "C:\\Users\\mllav\\Source\\Repos\\CursoNetCoreOK\\DemosCore\\Core\\Core.csproj",
+      "packagesPath": "C:\\Users\\mllav\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mllav\\Source\\Repos\\CursoNetCoreOK\\DemosCore\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\jfgomez\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\mllav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\DevExpress 18.2\\Components\\System\\Components\\Packages": {},
+        "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },

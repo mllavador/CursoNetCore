@@ -1,0 +1,12 @@
+C:\Users\mllav\Source\Repos\CursoNetCoreOK\DemosCore\GeneradorPDFs\bin\Debug\net6.0\GeneradorPDFs.deps.json
+C:\Users\mllav\Source\Repos\CursoNetCoreOK\DemosCore\GeneradorPDFs\bin\Debug\net6.0\GeneradorPDFs.dll
+C:\Users\mllav\Source\Repos\CursoNetCoreOK\DemosCore\GeneradorPDFs\bin\Debug\net6.0\ref\GeneradorPDFs.dll
+C:\Users\mllav\Source\Repos\CursoNetCoreOK\DemosCore\GeneradorPDFs\bin\Debug\net6.0\GeneradorPDFs.pdb
+C:\Users\mllav\Source\Repos\CursoNetCoreOK\DemosCore\GeneradorPDFs\obj\Debug\net6.0\GeneradorPDFs.csproj.AssemblyReference.cache
+C:\Users\mllav\Source\Repos\CursoNetCoreOK\DemosCore\GeneradorPDFs\obj\Debug\net6.0\GeneradorPDFs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mllav\Source\Repos\CursoNetCoreOK\DemosCore\GeneradorPDFs\obj\Debug\net6.0\GeneradorPDFs.AssemblyInfoInputs.cache
+C:\Users\mllav\Source\Repos\CursoNetCoreOK\DemosCore\GeneradorPDFs\obj\Debug\net6.0\GeneradorPDFs.AssemblyInfo.cs
+C:\Users\mllav\Source\Repos\CursoNetCoreOK\DemosCore\GeneradorPDFs\obj\Debug\net6.0\GeneradorPDFs.csproj.CoreCompileInputs.cache
+C:\Users\mllav\Source\Repos\CursoNetCoreOK\DemosCore\GeneradorPDFs\obj\Debug\net6.0\GeneradorPDFs.dll
+C:\Users\mllav\Source\Repos\CursoNetCoreOK\DemosCore\GeneradorPDFs\obj\Debug\net6.0\ref\GeneradorPDFs.dll
+C:\Users\mllav\Source\Repos\CursoNetCoreOK\DemosCore\GeneradorPDFs\obj\Debug\net6.0\GeneradorPDFs.pdb
