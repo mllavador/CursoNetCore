@@ -1,0 +1,12 @@
+C:\Users\jfgomez\source\repos\CursoNetCore\DemosCoreJF\CoreJF\bin\Debug\net6.0\CoreJF.deps.json
+C:\Users\jfgomez\source\repos\CursoNetCore\DemosCoreJF\CoreJF\bin\Debug\net6.0\CoreJF.dll
+C:\Users\jfgomez\source\repos\CursoNetCore\DemosCoreJF\CoreJF\bin\Debug\net6.0\ref\CoreJF.dll
+C:\Users\jfgomez\source\repos\CursoNetCore\DemosCoreJF\CoreJF\bin\Debug\net6.0\CoreJF.pdb
+C:\Users\jfgomez\source\repos\CursoNetCore\DemosCoreJF\CoreJF\obj\Debug\net6.0\CoreJF.csproj.AssemblyReference.cache
+C:\Users\jfgomez\source\repos\CursoNetCore\DemosCoreJF\CoreJF\obj\Debug\net6.0\CoreJF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jfgomez\source\repos\CursoNetCore\DemosCoreJF\CoreJF\obj\Debug\net6.0\CoreJF.AssemblyInfoInputs.cache
+C:\Users\jfgomez\source\repos\CursoNetCore\DemosCoreJF\CoreJF\obj\Debug\net6.0\CoreJF.AssemblyInfo.cs
+C:\Users\jfgomez\source\repos\CursoNetCore\DemosCoreJF\CoreJF\obj\Debug\net6.0\CoreJF.csproj.CoreCompileInputs.cache
+C:\Users\jfgomez\source\repos\CursoNetCore\DemosCoreJF\CoreJF\obj\Debug\net6.0\CoreJF.dll
+C:\Users\jfgomez\source\repos\CursoNetCore\DemosCoreJF\CoreJF\obj\Debug\net6.0\ref\CoreJF.dll
+C:\Users\jfgomez\source\repos\CursoNetCore\DemosCoreJF\CoreJF\obj\Debug\net6.0\CoreJF.pdb

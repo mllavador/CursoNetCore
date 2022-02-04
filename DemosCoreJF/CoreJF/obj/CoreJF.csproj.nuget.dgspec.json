@@ -1,0 +1,93 @@
+{
+  "format": 1,
+  "restore": {
+<<<<<<< HEAD:DemosCoreJF/CoreJF/obj/CoreJF.csproj.nuget.dgspec.json
+    "C:\\Users\\jfgomez\\source\\repos\\CursoNetCore\\DemosCoreJF\\CoreJF\\CoreJF.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jfgomez\\source\\repos\\CursoNetCore\\DemosCoreJF\\CoreJF\\CoreJF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jfgomez\\source\\repos\\CursoNetCore\\DemosCoreJF\\CoreJF\\CoreJF.csproj",
+        "projectName": "CoreJF",
+        "projectPath": "C:\\Users\\jfgomez\\source\\repos\\CursoNetCore\\DemosCoreJF\\CoreJF\\CoreJF.csproj",
+        "packagesPath": "C:\\Users\\jfgomez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jfgomez\\source\\repos\\CursoNetCore\\DemosCoreJF\\CoreJF\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jfgomez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+=======
+    "C:\\Users\\mllav\\source\\repos\\CursoNetCore\\DemosCore\\Core\\Core.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mllav\\source\\repos\\CursoNetCore\\DemosCore\\Core\\Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mllav\\source\\repos\\CursoNetCore\\DemosCore\\Core\\Core.csproj",
+        "projectName": "Core",
+        "projectPath": "C:\\Users\\mllav\\source\\repos\\CursoNetCore\\DemosCore\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\mllav\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mllav\\source\\repos\\CursoNetCore\\DemosCore\\Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mllav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
+>>>>>>> 26860697588393f8b757b3aaa067335fa3fbfceb:DemosCore/Core/obj/Core.csproj.nuget.dgspec.json
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+<<<<<<< HEAD:DemosCoreJF/CoreJF/obj/CoreJF.csproj.nuget.dgspec.json
+          "C:\\Program Files (x86)\\DevExpress 18.2\\Components\\System\\Components\\Packages": {},
+=======
+          "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
+>>>>>>> 26860697588393f8b757b3aaa067335fa3fbfceb:DemosCore/Core/obj/Core.csproj.nuget.dgspec.json
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
